@@ -1,0 +1,323 @@
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb0 in position 8505: invalid start byte
+amia_calva@orcaexpress:/mnt/c/Users/natsw/OneDrive/Desktop$ python3 missing1.py genera_4_21.nex
+/mnt/c/Users/natsw/OneDrive/Desktop/missing1.py:40: SyntaxWarning: invalid escape sequence '\d'
+  match = re.search('NCHAR=(\d+);', line)
+/mnt/c/Users/natsw/OneDrive/Desktop/missing1.py:62: SyntaxWarning: invalid escape sequence '\s'
+  match = re.search('^\t?(.*)\s{2,}([\?\d-]+)', line)
+#NEXUS
+
+This is a morphological matrix
+This is the proportion of non applicable characters and missing data for each taxon
+Species data
+Deania                      has 0.0%% missing characters and 6.696428571428571%% n/a characters
+Squalus                     has 0.0%% missing characters and 3.571428571428571%% n/a characters
+Squatina                    has 0.0%% missing characters and 3.571428571428571%% n/a characters
+'Heterodontus_francisci'    has 0.0%% missing characters and 10.267857142857142%% n/a characters
+Hexanchus                   has 0.4464285714285714%% missing characters and 12.5%% n/a characters
+Etmopterus                  has 0.4464285714285714%% missing characters and 10.714285714285714%% n/a characters
+Raja                        has 0.4464285714285714%% missing characters and 7.142857142857142%% n/a characters
+Dalatias                    has 0.8928571428571428%% missing characters and 11.607142857142858%% n/a characters
+Carcharhinus                has 0.8928571428571428%% missing characters and 4.910714285714286%% n/a characters
+'Platyrhinoidis_triseriata' has 0.8928571428571428%% missing characters and 6.696428571428571%% n/a characters
+'Oxynotus_centrina'         has 1.3392857142857142%% missing characters and 10.714285714285714%% n/a characters
+Sphyrna                     has 1.3392857142857142%% missing characters and 4.910714285714286%% n/a characters
+Hemiscyllium                has 1.7857142857142856%% missing characters and 12.946428571428573%% n/a characters
+Pseudocarcharias            has 1.7857142857142856%% missing characters and 13.839285714285715%% n/a characters
+'Heptranchias_perlo'        has 2.232142857142857%% missing characters and 12.946428571428573%% n/a characters
+'Notorynchus_cepedianus'    has 2.232142857142857%% missing characters and 12.5%% n/a characters
+Zameus                      has 2.232142857142857%% missing characters and 11.160714285714286%% n/a characters
+Pristiophorus               has 2.232142857142857%% missing characters and 12.5%% n/a characters
+Mustelus                    has 2.232142857142857%% missing characters and 13.392857142857142%% n/a characters
+'Isurus_oxyrinchus'         has 2.232142857142857%% missing characters and 13.839285714285715%% n/a characters
+Torpedo                     has 2.232142857142857%% missing characters and 11.607142857142858%% n/a characters
+Mobula                      has 2.232142857142857%% missing characters and 9.375%% n/a characters
+'Ginglymostoma_cirratum'    has 2.6785714285714284%% missing characters and 12.5%% n/a characters
+Carcharodon                 has 2.6785714285714284%% missing characters and 13.839285714285715%% n/a characters
+Scyliorhinus                has 3.125%% missing characters and 12.5%% n/a characters
+Platyrhina                  has 3.125%% missing characters and 6.25%% n/a characters
+Rhynchobatus                has 3.125%% missing characters and 6.25%% n/a characters
+Rhinobatos                  has 3.125%% missing characters and 5.357142857142857%% n/a characters
+Gymnura                     has 3.125%% missing characters and 8.928571428571429%% n/a characters
+Rhinoptera                  has 3.125%% missing characters and 10.267857142857142%% n/a characters
+Echinorhinus                has 4.017857142857143%% missing characters and 12.5%% n/a characters
+Rhzioprionodon              has 4.017857142857143%% missing characters and 15.178571428571427%% n/a characters
+Pristis                     has 4.464285714285714%% missing characters and 6.696428571428571%% n/a characters
+Rhina                       has 4.464285714285714%% missing characters and 6.25%% n/a characters
+Hypnos                      has 5.357142857142857%% missing characters and 11.160714285714286%% n/a characters
+Bathyraja                   has 5.803571428571429%% missing characters and 8.035714285714286%% n/a characters
+'Orectolobus_japonicus'     has 6.25%% missing characters and 1.7857142857142856%% n/a characters
+'Chiloscyllium_plagiosum'   has 6.696428571428571%% missing characters and 1.7857142857142856%% n/a characters
+Harriotta                   has 7.5892857142857135%% missing characters and 18.75%% n/a characters
+Chimaera                    has 8.035714285714286%% missing characters and 18.75%% n/a characters
+Hemipristis                 has 11.607142857142858%% missing characters and 11.160714285714286%% n/a characters
+Hexatrygon                  has 12.053571428571429%% missing characters and 7.5892857142857135%% n/a characters
+Mollisquama                 has 14.732142857142858%% missing characters and 10.267857142857142%% n/a characters
+Pliotrema                   has 15.178571428571427%% missing characters and 10.714285714285714%% n/a characters
+'Pleisiobatis_daviesi'      has 51.78571428571429%% missing characters and 0.0%% n/a characters
+Taeniura                    has 68.30357142857143%% missing characters and 0.4464285714285714%% n/a characters
+Urobatis                    has 70.53571428571429%% missing characters and 0.4464285714285714%% n/a characters
+'Fluvitrygon_signifer'      has 73.21428571428571%% missing characters and 0.0%% n/a characters
+'Pteroplatytrygon_violacea' has 73.66071428571429%% missing characters and 0.4464285714285714%% n/a characters
+'Isistius_brasiliensis'     has 80.35714285714286%% missing characters and 2.6785714285714284%% n/a characters
+'Squaliolus_laticaudas'     has 80.35714285714286%% missing characters and 2.6785714285714284%% n/a characters
+'Somnsiosus_microcelaphus'  has 80.35714285714286%% missing characters and 2.6785714285714284%% n/a characters
+'Centrophorus_squamosus'    has 81.25%% missing characters and 2.6785714285714284%% n/a characters
+Narke                       has 86.16071428571429%% missing characters and 0.0%% n/a characters
+'Diplobatis_pictus'         has 87.05357142857143%% missing characters and 0.0%% n/a characters
+'Brachaelurus_waddi'        has 87.94642857142857%% missing characters and 1.7857142857142856%% n/a characters
+'Brevitrygon_imbricata'     has 87.94642857142857%% missing characters and 0.0%% n/a characters
+'Parascyllium_variolatum '  has 88.39285714285714%% missing characters and 1.7857142857142856%% n/a characters
+'Negaprion_brevirostris'    has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Prionace_glauca'           has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Eridacnis_radcliffei'      has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Gollum_attenuatus'         has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Hemitriakis_japanica'      has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Galeorhinus_galeus'        has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Alopias_vulpinus'          has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Cetorhinus_maximus'        has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Odontaspididae_noronhai'   has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+'Carcarhias_taurus '        has 88.39285714285714%% missing characters and 2.232142857142857%% n/a characters
+Urolophus                   has 88.39285714285714%% missing characters and 0.4464285714285714%% n/a characters
+Aptychotrema                has 89.73214285714286%% missing characters and 0.4464285714285714%% n/a characters
+Neotrygon                   has 89.73214285714286%% missing characters and 0.4464285714285714%% n/a characters
+'Benthobatis_moresybi'      has 90.17857142857143%% missing characters and 0.4464285714285714%% n/a characters
+'Telatrygon_zugei'          has 90.17857142857143%% missing characters and 0.0%% n/a characters
+'Callorhinchus_milii'       has 92.41071428571429%% missing characters and 3.571428571428571%% n/a characters
+'Stegostoma_trigrinum'      has 93.75%% missing characters and 2.232142857142857%% n/a characters
+'Atelomycterus_facsiatus'   has 93.75%% missing characters and 2.232142857142857%% n/a characters
+'Galeocerdo_cuvier'         has 93.75%% missing characters and 2.232142857142857%% n/a characters
+'Bythaelurus_naylori'       has 93.75%% missing characters and 2.232142857142857%% n/a characters
+'Parmaturus_xaniurus '      has 93.75%% missing characters and 2.232142857142857%% n/a characters
+'Apristurus_garricki'       has 93.75%% missing characters and 2.232142857142857%% n/a characters
+Hemigaleus                  has 94.19642857142857%% missing characters and 0.0%% n/a characters
+'Beringraja_binoculata'     has 95.08928571428571%% missing characters and 0.0%% n/a characters
+'Curiraja_atlantis'         has 95.08928571428571%% missing characters and 0.0%% n/a characters
+Aetomylaeus                 has 95.53571428571429%% missing characters and 0.0%% n/a characters
+'Paratrygon_aiereba'        has 96.42857142857143%% missing characters and 0.0%% n/a characters
+Trygonoptera_               has 96.42857142857143%% missing characters and 0.0%% n/a characters
+Character data
+Character32 is missing in 0.0%% of species
+Character20 is missing in 1.1627906976744187%% of species
+Character30 is missing in 1.1627906976744187%% of species
+Character173 is missing in 1.1627906976744187%% of species
+Character1 is missing in 2.3255813953488373%% of species
+Character19 is missing in 2.3255813953488373%% of species
+Character31 is missing in 3.488372093023256%% of species
+Character24 is missing in 10.465116279069768%% of species
+Character21 is missing in 15.11627906976744%% of species
+Character22 is missing in 16.27906976744186%% of species
+Character23 is missing in 16.27906976744186%% of species
+Character25 is missing in 17.441860465116278%% of species
+Character26 is missing in 17.441860465116278%% of species
+Character27 is missing in 17.441860465116278%% of species
+Character81 is missing in 17.441860465116278%% of species
+Character56 is missing in 18.6046511627907%% of species
+Character2 is missing in 20.930232558139537%% of species
+Character38 is missing in 20.930232558139537%% of species
+Character39 is missing in 20.930232558139537%% of species
+Character62 is missing in 20.930232558139537%% of species
+Character79 is missing in 20.930232558139537%% of species
+Character80 is missing in 20.930232558139537%% of species
+Character78 is missing in 22.093023255813954%% of species
+Character77 is missing in 24.418604651162788%% of species
+Character139 is missing in 24.418604651162788%% of species
+Character11 is missing in 25.581395348837212%% of species
+Character28 is missing in 26.744186046511626%% of species
+Character33 is missing in 33.72093023255814%% of species
+Character34 is missing in 38.372093023255815%% of species
+Character29 is missing in 39.53488372093023%% of species
+Character3 is missing in 40.69767441860465%% of species
+Character12 is missing in 40.69767441860465%% of species
+Character66 is missing in 40.69767441860465%% of species
+Character174 is missing in 40.69767441860465%% of species
+Character161 is missing in 41.86046511627907%% of species
+Character15 is missing in 43.02325581395349%% of species
+Character35 is missing in 43.02325581395349%% of species
+Character36 is missing in 43.02325581395349%% of species
+Character46 is missing in 43.02325581395349%% of species
+Character68 is missing in 43.02325581395349%% of species
+Character70 is missing in 43.02325581395349%% of species
+Character83 is missing in 43.02325581395349%% of species
+Character91 is missing in 43.02325581395349%% of species
+Character92 is missing in 43.02325581395349%% of species
+Character99 is missing in 43.02325581395349%% of species
+Character106 is missing in 43.02325581395349%% of species
+Character107 is missing in 43.02325581395349%% of species
+Character134 is missing in 43.02325581395349%% of species
+Character137 is missing in 43.02325581395349%% of species
+Character146 is missing in 43.02325581395349%% of species
+Character149 is missing in 43.02325581395349%% of species
+Character150 is missing in 43.02325581395349%% of species
+Character151 is missing in 43.02325581395349%% of species
+Character160 is missing in 43.02325581395349%% of species
+Character175 is missing in 43.02325581395349%% of species
+Character180 is missing in 43.02325581395349%% of species
+Character48 is missing in 44.18604651162791%% of species
+Character50 is missing in 44.18604651162791%% of species
+Character55 is missing in 44.18604651162791%% of species
+Character75 is missing in 44.18604651162791%% of species
+Character90 is missing in 44.18604651162791%% of species
+Character156 is missing in 44.18604651162791%% of species
+Character169 is missing in 44.18604651162791%% of species
+Character10 is missing in 45.348837209302324%% of species
+Character16 is missing in 45.348837209302324%% of species
+Character18 is missing in 45.348837209302324%% of species
+Character43 is missing in 45.348837209302324%% of species
+Character61 is missing in 45.348837209302324%% of species
+Character64 is missing in 45.348837209302324%% of species
+Character72 is missing in 45.348837209302324%% of species
+Character105 is missing in 45.348837209302324%% of species
+Character111 is missing in 45.348837209302324%% of species
+Character170 is missing in 45.348837209302324%% of species
+Character172 is missing in 45.348837209302324%% of species
+Character185 is missing in 45.348837209302324%% of species
+Character5 is missing in 46.51162790697674%% of species
+Character17 is missing in 46.51162790697674%% of species
+Character53 is missing in 46.51162790697674%% of species
+Character59 is missing in 46.51162790697674%% of species
+Character108 is missing in 46.51162790697674%% of species
+Character119 is missing in 46.51162790697674%% of species
+Character123 is missing in 46.51162790697674%% of species
+Character142 is missing in 46.51162790697674%% of species
+Character143 is missing in 46.51162790697674%% of species
+Character158 is missing in 46.51162790697674%% of species
+Character167 is missing in 46.51162790697674%% of species
+Character171 is missing in 46.51162790697674%% of species
+Character37 is missing in 47.674418604651166%% of species
+Character52 is missing in 47.674418604651166%% of species
+Character58 is missing in 47.674418604651166%% of species
+Character69 is missing in 47.674418604651166%% of species
+Character73 is missing in 47.674418604651166%% of species
+Character93 is missing in 47.674418604651166%% of species
+Character94 is missing in 47.674418604651166%% of species
+Character95 is missing in 47.674418604651166%% of species
+Character98 is missing in 47.674418604651166%% of species
+Character101 is missing in 47.674418604651166%% of species
+Character104 is missing in 47.674418604651166%% of species
+Character115 is missing in 47.674418604651166%% of species
+Character148 is missing in 47.674418604651166%% of species
+Character163 is missing in 47.674418604651166%% of species
+Character164 is missing in 47.674418604651166%% of species
+Character165 is missing in 47.674418604651166%% of species
+Character166 is missing in 47.674418604651166%% of species
+Character176 is missing in 47.674418604651166%% of species
+Character177 is missing in 47.674418604651166%% of species
+Character192 is missing in 47.674418604651166%% of species
+Character41 is missing in 48.837209302325576%% of species
+Character44 is missing in 48.837209302325576%% of species
+Character45 is missing in 48.837209302325576%% of species
+Character47 is missing in 48.837209302325576%% of species
+Character49 is missing in 48.837209302325576%% of species
+Character60 is missing in 48.837209302325576%% of species
+Character67 is missing in 48.837209302325576%% of species
+Character109 is missing in 48.837209302325576%% of species
+Character113 is missing in 48.837209302325576%% of species
+Character114 is missing in 48.837209302325576%% of species
+Character116 is missing in 48.837209302325576%% of species
+Character117 is missing in 48.837209302325576%% of species
+Character118 is missing in 48.837209302325576%% of species
+Character124 is missing in 48.837209302325576%% of species
+Character131 is missing in 48.837209302325576%% of species
+Character135 is missing in 48.837209302325576%% of species
+Character136 is missing in 48.837209302325576%% of species
+Character138 is missing in 48.837209302325576%% of species
+Character147 is missing in 48.837209302325576%% of species
+Character157 is missing in 48.837209302325576%% of species
+Character162 is missing in 48.837209302325576%% of species
+Character178 is missing in 48.837209302325576%% of species
+Character179 is missing in 48.837209302325576%% of species
+Character181 is missing in 48.837209302325576%% of species
+Character182 is missing in 48.837209302325576%% of species
+Character184 is missing in 48.837209302325576%% of species
+Character186 is missing in 48.837209302325576%% of species
+Character188 is missing in 48.837209302325576%% of species
+Character189 is missing in 48.837209302325576%% of species
+Character190 is missing in 48.837209302325576%% of species
+Character191 is missing in 48.837209302325576%% of species
+Character194 is missing in 48.837209302325576%% of species
+Character196 is missing in 48.837209302325576%% of species
+Character198 is missing in 48.837209302325576%% of species
+Character199 is missing in 48.837209302325576%% of species
+Character200 is missing in 48.837209302325576%% of species
+Character201 is missing in 48.837209302325576%% of species
+Character202 is missing in 48.837209302325576%% of species
+Character203 is missing in 48.837209302325576%% of species
+Character204 is missing in 48.837209302325576%% of species
+Character205 is missing in 48.837209302325576%% of species
+Character206 is missing in 48.837209302325576%% of species
+Character207 is missing in 48.837209302325576%% of species
+Character208 is missing in 48.837209302325576%% of species
+Character209 is missing in 48.837209302325576%% of species
+Character210 is missing in 48.837209302325576%% of species
+Character211 is missing in 48.837209302325576%% of species
+Character216 is missing in 48.837209302325576%% of species
+Character217 is missing in 48.837209302325576%% of species
+Character218 is missing in 48.837209302325576%% of species
+Character219 is missing in 48.837209302325576%% of species
+Character220 is missing in 48.837209302325576%% of species
+Character221 is missing in 48.837209302325576%% of species
+Character222 is missing in 48.837209302325576%% of species
+Character223 is missing in 48.837209302325576%% of species
+Character9 is missing in 50.0%% of species
+Character42 is missing in 50.0%% of species
+Character57 is missing in 50.0%% of species
+Character76 is missing in 50.0%% of species
+Character96 is missing in 50.0%% of species
+Character97 is missing in 50.0%% of species
+Character110 is missing in 50.0%% of species
+Character112 is missing in 50.0%% of species
+Character120 is missing in 50.0%% of species
+Character132 is missing in 50.0%% of species
+Character133 is missing in 50.0%% of species
+Character140 is missing in 50.0%% of species
+Character153 is missing in 50.0%% of species
+Character159 is missing in 50.0%% of species
+Character183 is missing in 50.0%% of species
+Character187 is missing in 50.0%% of species
+Character195 is missing in 50.0%% of species
+Character213 is missing in 50.0%% of species
+Character4 is missing in 51.162790697674424%% of species
+Character7 is missing in 51.162790697674424%% of species
+Character13 is missing in 51.162790697674424%% of species
+Character14 is missing in 51.162790697674424%% of species
+Character40 is missing in 51.162790697674424%% of species
+Character51 is missing in 51.162790697674424%% of species
+Character63 is missing in 51.162790697674424%% of species
+Character71 is missing in 51.162790697674424%% of species
+Character125 is missing in 51.162790697674424%% of species
+Character128 is missing in 51.162790697674424%% of species
+Character129 is missing in 51.162790697674424%% of species
+Character141 is missing in 51.162790697674424%% of species
+Character154 is missing in 51.162790697674424%% of species
+Character193 is missing in 51.162790697674424%% of species
+Character212 is missing in 51.162790697674424%% of species
+Character214 is missing in 51.162790697674424%% of species
+Character215 is missing in 51.162790697674424%% of species
+Character8 is missing in 52.32558139534884%% of species
+Character100 is missing in 52.32558139534884%% of species
+Character102 is missing in 52.32558139534884%% of species
+Character121 is missing in 52.32558139534884%% of species
+Character127 is missing in 52.32558139534884%% of species
+Character144 is missing in 52.32558139534884%% of species
+Character74 is missing in 53.48837209302325%% of species
+Character82 is missing in 53.48837209302325%% of species
+Character103 is missing in 53.48837209302325%% of species
+Character122 is missing in 53.48837209302325%% of species
+Character152 is missing in 53.48837209302325%% of species
+Character6 is missing in 54.65116279069767%% of species
+Character65 is missing in 54.65116279069767%% of species
+Character86 is missing in 54.65116279069767%% of species
+Character87 is missing in 54.65116279069767%% of species
+Character88 is missing in 54.65116279069767%% of species
+Character130 is missing in 54.65116279069767%% of species
+Character84 is missing in 55.81395348837209%% of species
+Character85 is missing in 55.81395348837209%% of species
+Character89 is missing in 55.81395348837209%% of species
+Character155 is missing in 56.97674418604651%% of species
+Character54 is missing in 58.139534883720934%% of species
+Character224 is missing in 58.139534883720934%% of species
+Character145 is missing in 59.30232558139535%% of species
+Character126 is missing in 62.7906976744186%% of species
+Character168 is missing in 62.7906976744186%% of species
+Character197 is missing in 66.27906976744185%% of species
